@@ -10,7 +10,7 @@ import java.util.Calendar
 
 class PinoyFlix : MainAPI() {
     private val TAG = "DevDebug"
-    override var name = "Pinoy Flix"
+    override var name = "Pinoy Flix (Test)"
     override var mainUrl = "https://pinoymovieshub.ph"
     override var lang = "tl"
     override val supportedTypes = setOf(TvType.Movie, TvType.TvSeries, TvType.AsianDrama)
