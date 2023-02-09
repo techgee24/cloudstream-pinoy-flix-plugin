@@ -1,0 +1,19 @@
+[
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/techgee24/cloudstream-pinoy-flix-plugin",
+        "fileSize": 18782,
+        "status": 1,
+        "authors": [
+            "Gee"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "PinoyFlix",
+        "description": "Pinoy Movies",
+        "url": "https://raw.githubusercontent.com/techgee24/cloudstream-pinoy-flix-plugin/builds/PinoyFlix.cs3",
+        "name": "PinoyFlix"
+    }
+]
